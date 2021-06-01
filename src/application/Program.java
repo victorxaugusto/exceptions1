@@ -13,7 +13,6 @@ public class Program {
 	public static void main(String[] args) throws ParseException {
 
 		Scanner sc = new Scanner(System.in);
-		Calendar cal = Calendar.getInstance();
 		SimpleDateFormat sdf1 = new SimpleDateFormat("dd/MM/yy");
 
 		System.out.print("Room number: ");
